@@ -23,7 +23,7 @@
 Navigate to your browser. 
 
 To get the results above, select the following options: 
-<img src="https://imgur.com/undefined.png" />
+<img src="https://imgur.com/OjYXk4f.png" />
 
 Then you will see the following graph with the two stocks mapped out: 
 <img src="https://imgur.com/ezovmfy.png" />
