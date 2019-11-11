@@ -33,7 +33,7 @@ class Graph extends Component<IProps, {}> {
   componentDidMount() {
     // Get element to attach the table from the DOM.
     const elem = document.getElementsByTagName('perspective-viewer')[0] as unknown as PerspectiveViewerElement; // making the declaration of elem simpler
-
+    
     const schema = {
       stock: 'string',
       top_ask_price: 'float',
